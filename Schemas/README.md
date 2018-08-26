@@ -1,0 +1,1 @@
+This directory describes schema (data-structure as stored in database) for various entities.
